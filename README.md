@@ -5,7 +5,7 @@ Feito por Gustavo Provete e Ruan Vieira
 Fornece um módulo para data binding utilizando observables
 tambem vem com um exemplo de aplicação em MVP Passive View
 <br/><br/>
-Componentes:
+Componentes:<br/>
   DataBinding<br/>
   exemples.login<br/>
   observable<br/>
